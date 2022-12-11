@@ -8,7 +8,7 @@ PORT = 12000
 calc_mode = 0
 
 #File IO
-ANS_FILE_NAME = 'ans.txt'
+ANS_FILE_NAME = 'Ans.txt'
 INPUT_FILE_NAME = 'Testcase.txt'
 
 
